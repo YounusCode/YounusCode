@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Younus Ali</h1>
-<h3 align="center">A passionate developer from Iraq</h3>
-<img align="right" alt="Coding" width="400" src=https://dribbble.com/shots/7269423-Designer-Working-Animation/attachments/223638?mode=media>
+<h3 align="center">Computer Science Student</h3>
+
+
 - 🔭 I’m currently working on **creating a game in python**
 
 - 🌱 I’m currently learning **Python, Java and JavaScript.**
