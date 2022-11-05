@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [code](code)
 
-- 💬 Ask me about **functions, algorithms.**
+- 💬 Ask me about **functions, algorithms, python, java.**
 
 - 📫 How to reach me **ali00380@umn.edu**
 
