@@ -2,19 +2,19 @@
 <h3 align="center">Computer Science Student</h3>
 
 
-- 🔭 I’m currently working on **creating a game in python**
+- 🔭 I’m currently working on **advancing my skills in developing algorithms**
 
-- 🌱 I’m currently learning **Python, Java and JavaScript.**
+- 🌱 I’m currently learning **more of Python, Java, Javascript, and Machine Learning.**
 
-- 📝 I regularly write articles on [code](code)
+- 📝 I like to read books when ever I can.
 
-- 💬 Ask me about **functions, algorithms, python, java.**
+- 💬 I can answer questions about **functions, algorithms, python, java, etc.**
 
 - 📫 How to reach me **ali00380@umn.edu**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1M1NCetw1p9eNAnmy9wVhF9dEpeVrrpS_biRrUmrs5XM/edit?usp=sharing](https://docs.google.com/document/d/1M1NCetw1p9eNAnmy9wVhF9dEpeVrrpS_biRrUmrs5XM/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I am very passionate about what I do!**
+- ⚡ Fun fact **I preceive myself as a perfectionist!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
