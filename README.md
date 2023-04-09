@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1M1NCetw1p9eNAnmy9wVhF9dEpeVrrpS_biRrUmrs5XM/edit?usp=sharing](https://docs.google.com/document/d/1M1NCetw1p9eNAnmy9wVhF9dEpeVrrpS_biRrUmrs5XM/edit?usp=sharing)
 
-- ⚡ Fun fact **I preceive myself as a perfectionist!**
+- ⚡ Fun fact **I perceive myself as a perfectionist!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
