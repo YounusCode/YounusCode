@@ -35,3 +35,10 @@
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,mysql,html,css,vscode,git" />
 </div>
+
+# Stats and Other
+
+![YounusCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounusCode&show_icons=true&theme=monokai)
+![Stats1](https://github-readme-streak-stats.herokuapp.com/?user=YounusCode&theme=dark)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounusCode&layout=compact&langs_count=100&theme=dracula)
+
