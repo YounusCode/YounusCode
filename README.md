@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning more of **React, JavaScript, TypeScript, Java, and Python**
 
- ⚡ Fun fact **I like to be an perfectionist**
+ ⚡ Fun fact about myself **I like to be a perfectionist**
  
  </div>
  
