@@ -35,11 +35,3 @@
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,mysql,html,css,vscode,git" />
 </div>
-
-<br/>
-
-<hr/>
-
-<hr/>
-
-<br/>
