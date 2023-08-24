@@ -4,22 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Younus+Ali!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from the US 🇺🇸</h3>
+<h3 align="center">A passionate software developer from United States 🇺🇸</h3>
 
 <br/>
 
 <div align="center">
  
-  📚  I’m currently studying **Computer Science**
-  
-  🌱 I’m currently working on advacning my skills in **C++, Python, Java, and LeetCoding**
-  
-  ⚡ Fun fact about me **I am a perfectionist**
+ 🔭 I’m currently working on **developing more alogrithms**
+ 
+ 🌱 I’m currently learning more of **React, JavaScript, TypeScript, Java, and Python**
+
+ ⚡ Fun fact **I like to be an perfectionist**
  
  </div>
-
- <div align="center"> 
-  <a href="mailto:ali00380@umn.edu">
+ 
+<div align="center"> 
+  <a href="mailto: ali00380@umn.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/younus-ali-2729a8212/" target="_blank">
@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,html,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
 
 <br/>
