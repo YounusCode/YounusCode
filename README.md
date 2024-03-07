@@ -9,7 +9,7 @@
  
  🕯️ I’m currently working on **developing my own personal website**
  
- 💡 I’m currently learning more of **React, JavaScript/TypeScript**
+ 💡 I’m currently learning more of **React, JavaScript/TypeScript, and CSS**
  
  </div>
  
