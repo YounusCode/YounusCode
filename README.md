@@ -14,7 +14,7 @@
  </div>
 
 
-<h2 align="center">Tools That I know</h2>
+<h2 align="center">Tools and Languages That I know</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,c,java" /><br>
