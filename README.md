@@ -12,16 +12,7 @@
  💡 I’m currently learning more of **React, JavaScript/TypeScript, and CSS**
  
  </div>
- 
-<div align="center"> 
-     📮 You can contact me by the following:
-  <a href="mailto: ali00380@umn.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/younus-ali-2729a8212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+
 
 <h2 align="center">Tools That I know</h2>
 <br/>
@@ -29,3 +20,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,mysql,html,css,vscode,git" />
 </div>
+
+📮 You can contact me by the following:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/YounusCode)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/younus-ali-2729a8212/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ali00380@umn.edu)
