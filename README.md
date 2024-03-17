@@ -21,7 +21,9 @@
     <img src="https://skillicons.dev/icons?i=react,r,mysql,html,css,vscode,git" />
 </div>
 
-📮 You can contact me by the following:
+**📮 You can contact me by the following:**
+
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/YounusCode)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/younus-ali-2729a8212/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ali00380@umn.edu)
